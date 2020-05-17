@@ -35,7 +35,7 @@
     }
   },
   "lint-staged": {
-    "packages/index.js": "standard --fix"
+    "packages/*.js": "standard --fix"
   },
   "config": {
     "commitizen": {
